@@ -15,7 +15,7 @@ namespace CardGames
 			SwinGame.LoadFontNamed ("GameFont", "Chunkfive.otf", 24);
 			SwinGame.LoadSoundEffectNamed ("Slap", "slap.wav");
 
-		}
+		}g
 
 		/// <summary>
 		/// Respond to the user input -- with requests affecting myGame
